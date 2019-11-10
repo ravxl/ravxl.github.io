@@ -3,7 +3,7 @@
     <title>ravxl&#x27;s things</title>
     <link href="https://ravxl.github.io/feed.xml" rel="self" />
     <link href="https://ravxl.github.io" />
-    <updated>2019-11-10T11:11:43+00:00</updated>
+    <updated>2019-11-10T11:39:35+00:00</updated>
     <author>
         <name>Ravel Leite</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://ravxl.github.io/nf-e-sebrae-sp/"/>
         <id>https://ravxl.github.io/nf-e-sebrae-sp/</id>
 
-        <updated>2019-11-10T10:57:05+00:00</updated>
+        <updated>2019-11-10T11:39:30+00:00</updated>
             <summary>
                 <![CDATA[
                     NF-e Sebrae (Quick Fix)Depois da atualização do macOS Catalina o sistema de&hellip;
@@ -25,9 +25,9 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h2 id="mcetoc_1dp9fk7rm0">NF-e Sebrae (Quick Fix)</h2>
+                <h2 id="mcetoc_1dp9fk7rm0"><span style="text-decoration: underline;">NF-e Sebrae (Quick Fix)</span></h2>
 <p>Depois da atualização do macOS Catalina o sistema de arquivos do S.O. passou a ser montado em modo somente leitura, fazendo com que o comando de mkdir não possa mais ser executado na raiz (/). Além disso, durante o processo de instalação da atualização do sistema operacional, o sistema movimentou os arquivos da raiz para dentro de um diretório novo na área de trabalho do usuário que iniciou a atualização do sistema. Esse tutorial está dividido em duas partes:</p>
-<h3 id="mcetoc_1dp9fksgu1">Primeira Parte: Recuperando o NF-e para que ele volte a rodar:</h3>
+<h3 id="mcetoc_1dp9fksgu1"><span style="text-decoration: underline;">Primeira Parte: Recuperando o NF-e para que ele volte a rodar:</span></h3>
 <p>Ao iniciar o NF-e você vai receber uma tela de erro e no detalhamento do erro java uma menção a falha da conexão jdbc como a exibida abaixo:</p>
 <br><img class="post__image--center" src="https://ravxl.github.io/media/posts/1/emissor_falha.jpg" alt="emissor nf-e sebrae" width="865" height="648"><br>
 <h3 id="mcetoc_1dp9fukhm2">Passo-a-passo para recuperar o nf-e</h3>
@@ -48,7 +48,7 @@
 <li>Abra o emissor de notas fiscais do sebrae</li>
 </ol>
 <br> Provavelmente nesse momento você vai perceber que a base de dados está zerada. Se isso não for um problema para você, pode ignorar o restante dos passos.<br>
-<h3 id="mcetoc_1dp9g0k4i3">Segunda Parte: Recupebando a base de dados do NF-e depois que ele voltou a rodar</h3>
+<h3 id="mcetoc_1dp9g0k4i3"><span style="text-decoration: underline;">Segunda Parte: Recupebando a base de dados do NF-e depois que ele voltou a rodar</span></h3>
 <br> A antiga base de dados provavelmente estará dentro do diretório:<br>
 <pre><code>/Users/Shared/Previously\ Relocated\ Items/Security/database</code></pre>
 <h3 id="mcetoc_1dp9g1o2g4">Passo-a-passo para recuperar a base de dados do nf-e</h3>
