@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>A simple Github Pages</title>
+    <title>ravxl&#x27;s things</title>
     <link href="https://ravxl.github.io/feed.xml" rel="self" />
     <link href="https://ravxl.github.io" />
-    <updated>2019-11-10T01:51:14+00:00</updated>
+    <updated>2019-11-10T11:11:43+00:00</updated>
     <author>
         <name>Ravel Leite</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://ravxl.github.io/nf-e-sebrae-sp/"/>
         <id>https://ravxl.github.io/nf-e-sebrae-sp/</id>
 
-        <updated>2019-11-10T01:51:09+00:00</updated>
+        <updated>2019-11-10T10:57:05+00:00</updated>
             <summary>
                 <![CDATA[
-                    NF-e Sebrae (Quick Fix)Depois da atualização do macOS Catalina o sistema de arquivos do S.O. passou a ser montado em modo somente leitura, fazendo com que o comando de mkdir não possa mais ser executado na raiz (/). Além disso, durante o processo de instalação&hellip;
+                    NF-e Sebrae (Quick Fix)Depois da atualização do macOS Catalina o sistema de&hellip;
                 ]]>
             </summary>
         <content type="html">
