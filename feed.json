@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "A simple Github Pages",
+    "description": "",
+    "home_page_url": "https://ravxl.github.io",
+    "feed_url": "https://ravxl.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ravel Leite"
+    },
+    "items": [
+    ]
+}
