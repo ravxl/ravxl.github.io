@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://ravxl.github.io/about/",
+            "url": "https://ravxl.github.io/about/",
+            "title": "About",
+            "summary": "I have created this website on github.io just to showcase a few things that I&hellip;",
+            "content_html": "<p id=\"mcetoc_1dpauefch2\">I have created this website on github.io just to showcase a few things that I have been doing lately. I'm a project manager with techinical knowledge across infrastructure and development. I quite enjoy scripting, programming and creating things that helps me delivery my work on a daily basis. I have knowledge around python, json, api, service-now, salesforce, shell scripting, databases, pandas and others. </p>",
+            "author": {
+                "name": "Ravel Leite"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-10T15:26:10+00:00",
+            "date_modified": "2019-11-10T15:28:55+00:00"
+        },
+        {
             "id": "https://ravxl.github.io/nf-e-sebrae-sp/",
             "url": "https://ravxl.github.io/nf-e-sebrae-sp/",
             "title": "NF-e Sebrae SP",

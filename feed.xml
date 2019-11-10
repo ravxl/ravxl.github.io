@@ -3,12 +3,32 @@
     <title>ravxl&#x27;s things</title>
     <link href="https://ravxl.github.io/feed.xml" rel="self" />
     <link href="https://ravxl.github.io" />
-    <updated>2019-11-10T15:26:34+00:00</updated>
+    <updated>2019-11-10T15:29:01+00:00</updated>
     <author>
         <name>Ravel Leite</name>
     </author>
     <id>https://ravxl.github.io</id>
 
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Ravel Leite</name>
+        </author>
+        <link href="https://ravxl.github.io/about/"/>
+        <id>https://ravxl.github.io/about/</id>
+
+        <updated>2019-11-10T15:28:55+00:00</updated>
+            <summary>
+                <![CDATA[
+                    I have created this website on github.io just to showcase a few things that I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p id="mcetoc_1dpauefch2">I have created this website on github.io just to showcase a few things that I have been doing lately. I'm a project manager with techinical knowledge across infrastructure and development. I quite enjoy scripting, programming and creating things that helps me delivery my work on a daily basis. I have knowledge around python, json, api, service-now, salesforce, shell scripting, databases, pandas and others. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>NF-e Sebrae SP</title>
         <author>
